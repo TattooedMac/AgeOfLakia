@@ -44,8 +44,7 @@ class ViewController: UIViewController {
         
         var realDogYears:Double
         //I have added new inputs to convert to Real Human years. 
-        //Each human year equals 10.5 dog years for the first 2 years then 4 yrs for every 
-        //year after that. 
+        //Each human year equals 10.5 dog years for the first 2 years then 4 yrs for every year after that. 
 
         if optionalDoubleFromTextField > 2
         {
